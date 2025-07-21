@@ -1,4 +1,4 @@
-// 内部包，实现主控模式功能
+// 内部包，实现主控模式功能 
 package internal
 
 import (
