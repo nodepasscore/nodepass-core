@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/nodepasscore/nodepass-core/refs/heads/main/internal/version.txt version.txt
+wget -O version.txt https://raw.githubusercontent.com/nodepasscore/nodepass-core/refs/heads/main/internal/version.txt
