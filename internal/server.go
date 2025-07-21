@@ -1,4 +1,4 @@
-// 内部包，实现服务端模式功能
+// 内部包，实现服务端模式功能 
 package internal
 
 import (
